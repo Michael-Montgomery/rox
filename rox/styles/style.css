@@ -1,0 +1,77 @@
+body,
+* {
+  padding: 0;
+  margin: none;
+}
+.center {
+    text-align: center;
+}
+header {
+  height: 70px;
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+header nav {
+  text-align: center;
+  line-height: 70px;
+}
+/* } hgjkfdg */
+
+header nav a {
+  color: black;
+  text-decoration: none;
+  margin: 0 5vw;
+}
+
+header nav img {
+  float: left;
+  height: 75px;
+  width: 90px;
+}
+
+.welcome-wrapper-one {
+  background: url("https://images.pexels.com/photos/733881/pexels-photo-733881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.mini-card {
+  height: 70vh;
+  width: 40vw;
+  border: 1px solid black dashed;
+  display: inline-block;
+  -webkit-box-shadow: -1px 9px 47px -7px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 9px 47px -7px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 9px 47px -7px rgba(0, 0, 0, 0.75);
+}
+
+/* .text-card {
+}
+
+#extraordinarily {
+} */
+
+.text-card p {
+  color: white;
+}
+
+#mini-text-card-one {
+  background-image: linear-gradient(to right, #6b71eb, #8080eb);
+  position: relative;
+  left: 10vw;
+  top: 60vh;
+}
+
+#mini-pic-card-one {
+  background: url("https://images.pexels.com/photos/377058/pexels-photo-377058.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-size: cover;
+  padding-top: 40px;
+}
+
+#mini-pic-card-one a {
+  color: rgba(255, 255, 255, 0.4);
+  text-decoration: none;
+}
