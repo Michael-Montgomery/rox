@@ -75,3 +75,12 @@ header nav img {
   color: rgba(255, 255, 255, 0.4);
   text-decoration: none;
 }
+
+#mini-pic-card-two {
+  float: right;
+  position: relative;
+  right: 14vw;
+  top: 40vh;
+  background-image: url("https://images.pexels.com/photos/1488312/pexels-photo-1488312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+}
