@@ -84,3 +84,9 @@ header nav img {
   background-image: url("https://images.pexels.com/photos/1488312/pexels-photo-1488312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-size: cover;
 }
+
+#contact-wrapper {
+  width: 100vw;
+  height: 350px;
+  color: lightblue;
+}
